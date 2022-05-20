@@ -18,7 +18,7 @@ class Program
         {
             Console.WriteLine("");
             Console.WriteLine("Coockie clicker?");
-            Console.WriteLine("Coockie clicker?");
+            Console.WriteLine("Go ahead");
             Console.WriteLine("");
             Console.WriteLine("Type 'yes' to end the program or type 'no' to add 1 to the counter");
             repeatQuestion = Convert.ToString(Console.ReadLine());
