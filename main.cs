@@ -1,4 +1,4 @@
-// Created by: Emmanuel-Fofeyin
+// Created by: Marshall
 // Created on: May 2022
 //
 // This program saves to local storage
@@ -17,8 +17,7 @@ class Program
         while (true)
         {
             Console.WriteLine("");
-            Console.WriteLine("Coockie clicker?");
-            Console.WriteLine("Go ahead");
+            Console.WriteLine("Do you want to quit the program?");
             Console.WriteLine("");
             Console.WriteLine("Type 'yes' to end the program or type 'no' to add 1 to the counter");
             repeatQuestion = Convert.ToString(Console.ReadLine());
